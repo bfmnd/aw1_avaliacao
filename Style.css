@@ -1,0 +1,27 @@
+body
+
+#cabecalho a{text-decoration: none;}
+#cabecalho a:link{color: rgb(255, 255, 255); padding:8px 12px;}
+#cabecalho a:visited{color:rgb(255, 255, 255);padding:8px 12px;}
+#cabecalho a:hover{color:rgb(0, 0, 0); background: #6db9fc;}
+h1{
+    font-size: 80, 'Anton', sans-serif;
+}
+ a{text-decoration: none;}  
+ a:link{color:rgb(136, 136, 244);}
+ a:visited{color:rgb(99, 75, 215);}
+ a:hover{color:orangered;}
+
+ h2{color: #1914b3; margin:10px; font-size: 80, 'Anton', sans-serif;}
+ h3 {color: #3a3a3a; background: #CCC; padding: 0px;}
+ #data{font-size:0,7em; display:block; padding-top: 0px; padding-bottom: 15px; margin:10px;}
+ #cabecalho{width:900px;margin:10px auto;padding:4px; background: #1914b3; text-align: center;}
+ #cabecalho_nome, #cabecalho_menu{padding:15px;}
+ #principal{width:950px; margin:10px auto; }
+ #rodape{clear:both; width:950px;margin:10px auto;padding:15px; background: #1914b3;text-align: center;}
+ #postagem{ width:660px; margin:10px; float:left;}
+ #lateral{ width: 240px; margin:10px; float:right;}
+
+ .conteudo_postagem{padding: 20px; margin: 20px; background: #6db9fc;}
+ .conteudo-lateral { padding: 20px; margin: 20px; background: white;}
+ .laranja{color:orange;}
